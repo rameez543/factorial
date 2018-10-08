@@ -1,6 +1,6 @@
 # factorial
 
-Hello World in all possible programming languages
+factorial in all possible programming languages
 
 ## Aim
 
