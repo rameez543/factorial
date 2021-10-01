@@ -1,10 +1,21 @@
-# factorial
+# Factorial
 
-factorial in all possible programming languages
+Factorial in all possible programming languages
 
 ## Aim
 
 This repository should eventually contain the  program to print factorial of a number in all the programming languages possible...
+
+## Languages used so far
+- C
+- Python
+- C#
+- Haskell
+- JavaScript
+- Lua
+- Ruby
+- R
+- Java
 
 ## How to Contribute to this repository
 
